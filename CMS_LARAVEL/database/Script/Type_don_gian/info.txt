@@ -1,0 +1,7 @@
+http://sofaphucdat.com
+
+menu: chỉ có 1 menu 1 cấp baop gồm category,tin tức, liên hệ
+có lọc theo giá bằng thanh ngan
+có full text search
+có lọc hiển thị (phổ biến, giá từ cao tới tấp, từ thấp lên cao)
+tn tức cũng không có menu con

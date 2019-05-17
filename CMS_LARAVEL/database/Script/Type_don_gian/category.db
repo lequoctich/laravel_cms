@@ -1,0 +1,46 @@
+INSERT INTO `category` (
+    `id`, `name`, `slug`, `description`, `description_lang`, `parent_id`, `key_word`, `content`, `content_lang`, `image`, `delete_flag`, `propety`, `sale`, `created_at`, `updated_at`)
+     VALUES 
+     ('1', 'Sofa nỉ', 'sofa-ni', NULL, NULL, '0', NULL, NULL, NULL, NULL, '0', '0', '0', NULL, NULL);
+
+INSERT INTO `category` (
+    `id`, `name`, `slug`, `description`, `description_lang`, `parent_id`, `key_word`, `content`, `content_lang`, `image`, `delete_flag`, `propety`, `sale`, `created_at`, `updated_at`)
+     VALUES 
+     ('2', 'Sofa Da', 'sofa-Da', NULL, NULL, '0', NULL, NULL, NULL, NULL, '0', '0', '0', NULL, NULL);
+
+INSERT INTO `category` (
+    `id`, `name`, `slug`, `description`, `description_lang`, `parent_id`, `key_word`, `content`, `content_lang`, `image`, `delete_flag`, `propety`, `sale`, `created_at`, `updated_at`,`active_content_flg`)
+     VALUES 
+     ('3', 'Các Sản Phẩm Khác', 'san-phap-khac', NULL, NULL, '0', NULL, NULL, NULL, NULL, '0', '0', '0', NULL, NULL,0);
+
+INSERT INTO `category` (
+    `id`, `name`, `slug`, `description`, `description_lang`, `parent_id`, `key_word`, `content`, `content_lang`, `image`, `delete_flag`, `propety`, `sale`, `created_at`, `updated_at`)
+     VALUES 
+     ('4', 'Hàng Cho Tặng', 'hang-cho-tang', NULL, NULL, '0', NULL, NULL, NULL, NULL, '0', '0', '0', NULL, NULL);
+
+
+INSERT INTO `category` (
+    `id`, `name`, `slug`, `description`, `description_lang`, `parent_id`, `key_word`, `content`, `content_lang`, `image`, `delete_flag`, `propety`, `sale`, `created_at`, `updated_at`)
+     VALUES 
+     ('5', 'Đệm nhập khấu', 'dem-nhap-khau', NULL, NULL, '3', NULL, NULL, NULL, NULL, '0', '0', '0', NULL, NULL);
+
+INSERT INTO `category` (
+    `id`, `name`, `slug`, `description`, `description_lang`, `parent_id`, `key_word`, `content`, `content_lang`, `image`, `delete_flag`, `propety`, `sale`, `created_at`, `updated_at`)
+     VALUES 
+     ('6', 'Đệm tình yêu', 'dem-tinh-yeu', NULL, NULL, '3', NULL, NULL, NULL, NULL, '0', '0', '0', NULL, NULL);
+
+INSERT INTO `category` (
+    `id`, `name`, `slug`, `description`, `description_lang`, `parent_id`, `key_word`, `content`, `content_lang`, `image`, `delete_flag`, `propety`, `sale`, `created_at`, `updated_at`)
+     VALUES 
+     ('7', 'Sofa xe hơi', 'sofa-xe-hoi', NULL, NULL, '3', NULL, NULL, NULL, NULL, '0', '0', '0', NULL, NULL);
+
+INSERT INTO `category` (
+    `id`, `name`, `slug`, `description`, `description_lang`, `parent_id`, `key_word`, `content`, `content_lang`, `image`, `delete_flag`, `propety`, `sale`, `created_at`, `updated_at`)
+     VALUES 
+     ('8', 'Giường con sò', 'giuong-con-so', NULL, NULL, '6', NULL, NULL, NULL, NULL, '0', '0', '0', NULL, NULL);
+
+INSERT INTO `category` (
+    `id`, `name`, `slug`, `description`, `description_lang`, `parent_id`, `key_word`, `content`, `content_lang`, `image`, `delete_flag`, `propety`, `sale`, `created_at`, `updated_at`)
+     VALUES 
+     ('9', 'Sofa tình ái', 'sofa-tinh-ai', NULL, NULL, '6', NULL, NULL, NULL, NULL, '0', '0', '0', NULL, NULL);
+     

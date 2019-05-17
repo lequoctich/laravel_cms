@@ -1,0 +1,11 @@
+INSERT INTO `menus` (`id`, `name`, `local`, `role`, `sort`,`created_at`, `updated_at`) VALUES (1, 'trang chủ', '0', NULL, '1' ,NULL, NULL);
+
+INSERT INTO `menus` (`id`, `name`, `local`, `role`,`sort`, `created_at`, `updated_at`) VALUES (2, 'Giới Thiệu', '0', NULL, '2' , NULL, NULL);
+
+INSERT INTO `menus` (`id`, `name`, `local`, `role`,`sort`, `created_at`, `updated_at`) VALUES (3, 'Tin tức', '0', NULL, '3' , NULL, NULL);
+
+INSERT INTO `menus` (`id`, `name`, `local`, `role`,`sort`, `created_at`, `updated_at`) VALUES (4, 'Thanh Toán', '0', NULL, '4' , NULL, NULL);
+
+INSERT INTO `menus` (`id`, `name`, `local`, `role`,`sort`, `created_at`, `updated_at`) VALUES (5, 'Liên hệ', '0', NULL, '5' , NULL, NULL);
+
+INSERT INTO `menus` (`id`, `name`, `local`, `role`,`sort`, `created_at`, `updated_at`) VALUES (6, 'Danh Mục Sản Phẩm', '0', NULL, '6' , NULL, NULL);

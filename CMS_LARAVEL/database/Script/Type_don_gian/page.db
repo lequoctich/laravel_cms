@@ -1,0 +1,16 @@
+INSERT INTO `page` (
+    `id`, `name`, `slug`, `description`, `description_lang`, `parent_id`, `key_word`, `content`, `content_lang`, `image`, `delete_flag`, `sort`, `active_content_flag`, `created_at`, `updated_at`) VALUES (
+        '1', 'Tin Vịt', 'tin-vit', NULL, NULL, '0', NULL, NULL, NULL, NULL, '0', NULL, '0', NULL, NULL);
+
+INSERT INTO `page` (
+    `id`, `name`, `slug`, `description`, `description_lang`, `parent_id`, `key_word`, `content`, `content_lang`, `image`, `delete_flag`, `sort`, `active_content_flag`, `created_at`, `updated_at`) VALUES (
+        '2', 'Tin Hay', 'tin-hay', NULL, NULL, '0', NULL, NULL, NULL, NULL, '0', NULL, '0', NULL, NULL);
+
+
+INSERT INTO `page` (
+    `id`, `name`, `slug`, `description`, `description_lang`, `parent_id`, `key_word`, `content`, `content_lang`, `image`, `delete_flag`, `sort`, `active_content_flag`, `created_at`, `updated_at`) VALUES (
+        '3', 'trong nước', 'trong-nuoc', NULL, NULL, '1', NULL, NULL, NULL, NULL, '0', NULL, '0', NULL, NULL);
+
+INSERT INTO `page` (
+    `id`, `name`, `slug`, `description`, `description_lang`, `parent_id`, `key_word`, `content`, `content_lang`, `image`, `delete_flag`, `sort`, `active_content_flag`, `created_at`, `updated_at`) VALUES (
+        '4', 'ngoài nước', 'ngoai-nuoc', NULL, NULL, '1', NULL, NULL, NULL, NULL, '0', NULL, '0', NULL, NULL);

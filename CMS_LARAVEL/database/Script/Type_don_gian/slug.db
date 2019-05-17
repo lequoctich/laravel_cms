@@ -1,0 +1,6 @@
+INSERT INTO `slug`(`slug_vi`) VALUES ('trang-chu')
+INSERT INTO `slug`(`slug_vi`) VALUES ('gioi-thieu')
+INSERT INTO `slug`(`slug_vi`) VALUES ('tin-tuc')
+INSERT INTO `slug`(`slug_vi`) VALUES ('thanh-toan')
+INSERT INTO `slug`(`slug_vi`) VALUES ('lioen-he')
+INSERT INTO `slug`(`slug_vi`) VALUES ('san-pham')
