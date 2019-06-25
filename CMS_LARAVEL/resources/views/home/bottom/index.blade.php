@@ -16,7 +16,7 @@
                                 <div class="box box-vertical box-text-bottom box-blog-post has-hover">
                                     <div class="box-image" style="width:33%;">
                                         <div class="image-overlay-add image-cover" style="padding-top:56%;">
-                                            <img width="300" height="225" src="{{$_ENV['APP_URL']}}/image/6t9-300x225.jpg" data-src="image/6t9-300x225.jpg" class="attachment-medium size-medium wp-post-image lazy-load-active" alt="" srcset="image/6t9-300x225.jpg 300w, image/6t9-768x576.jpg 768w, image/6t9-1024x768.jpg 1024w, image/6t9-600x450.jpg 600w" data-srcset="image/6t9-300x225.jpg 300w, image/6t9-768x576.jpg 768w, image/6t9-1024x768.jpg 1024w, image/6t9-600x450.jpg 600w" sizes="(max-width: 300px) 100vw, 300px">  							
+                                            <img width="300" height="225" src="{{env('APP_URL')}}/image/6t9-300x225.jpg" data-src="image/6t9-300x225.jpg" class="attachment-medium size-medium wp-post-image lazy-load-active" alt="" srcset="image/6t9-300x225.jpg 300w, image/6t9-768x576.jpg 768w, image/6t9-1024x768.jpg 1024w, image/6t9-600x450.jpg 600w" data-srcset="image/6t9-300x225.jpg 300w, image/6t9-768x576.jpg 768w, image/6t9-1024x768.jpg 1024w, image/6t9-600x450.jpg 600w" sizes="(max-width: 300px) 100vw, 300px">  							
                                             <div class="overlay" style="background-color: rgba(255, 58, 0, 0.17)"></div>
                                         </div>
                                     </div>
